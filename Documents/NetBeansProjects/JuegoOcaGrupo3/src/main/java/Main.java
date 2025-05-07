@@ -22,48 +22,57 @@ public class Main {
                 System.out.println("Jugador 1:");
                 jug1.IngresarAlias();
                 jug1.ingresarNivel();
+                jug1.escogerCategoria();
                 break;
-                
             case 2:
                 System.out.println("Jugador 1:");
                 jug1.IngresarAlias();
                 jug1.ingresarNivel();
+                jug1.escogerCategoria();
                 
                 System.out.println("Jugador 2:");
                 jug2.IngresarAlias();
                 jug2.ingresarNivel();
+                jug2.escogerCategoria();
                 break;
                 
             case 3:
                 System.out.println("Jugador 1:");
                 jug1.IngresarAlias();
                 jug1.ingresarNivel();
+                jug1.escogerCategoria();
                 
                 System.out.println("Jugador 2:");
                 jug2.IngresarAlias();
                 jug2.ingresarNivel();
+                jug2.escogerCategoria();
                 
                 System.out.println("Jugador 3:");
                 jug3.IngresarAlias();
                 jug3.ingresarNivel();
+                jug3.escogerCategoria();
                 break;
                 
             case 4:
                 System.out.println("Jugador 1:");
                 jug1.IngresarAlias();
                 jug1.ingresarNivel();
+                jug1.escogerCategoria();
                 
                 System.out.println("Jugador 2:");
                 jug2.IngresarAlias();
                 jug2.ingresarNivel();
+                jug2.escogerCategoria();
                 
                 System.out.println("Jugador 3:");
                 jug3.IngresarAlias();
                 jug3.ingresarNivel();
+                jug3.escogerCategoria();
                 
                 System.out.println("Jugador 4:");
                 jug4.IngresarAlias();
                 jug4.ingresarNivel();
+                jug4.escogerCategoria();
                 break;
                 
             default:
